@@ -1,24 +1,17 @@
 # vue-weather-test
 
-## Project setup
+## Настройка проекта
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
+npm install
 ```
 
-### Compiles and minifies for production
+### Компилирует и выполняет горячую перезагрузку для разработки
 ```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
+npm run serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Компилирует и минимизирует для продакшена
+```
+npm run build
+```
+
